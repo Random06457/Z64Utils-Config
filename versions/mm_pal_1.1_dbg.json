@@ -1,0 +1,24 @@
+{
+  "version_name": "Majora\u0027s mask PAL 1.1 Debug",
+  "version_game": "Mm",
+  "compression_method": "Yaz0",
+  "identifier": {
+    "build_team": "zelda@srd44",
+    "build_date": "00-09-29 09:29:05"
+  },
+  "memory": {
+    "code": "800B6AC0",
+    "actor_table": "801F7510",
+    "gamestate_table": "80206820",
+    "effect_table": "801F69E0",
+    "kaleido_mgr_table": "80212080",
+    "fbdemo_table": "802120C0"
+  },
+  "files": [
+    {
+      "vrom": "00C95000",
+      "name": "code",
+      "type": "Unknow"
+    }
+  ]
+}

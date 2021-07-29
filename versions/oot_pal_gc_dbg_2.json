@@ -1,0 +1,24 @@
+{
+  "version_name": "Ocarina of Time PAL GameCube Debug 2",
+  "version_game": "Oot",
+  "compression_method": "Yaz0",
+  "identifier": {
+    "build_team": "zelda@srd022j",
+    "build_date": "03-02-21 00:49:18"
+  },
+  "memory": {
+    "code": "8001CE60",
+    "actor_table": "801162C0",
+    "gamestate_table": "8011F850",
+    "effect_table": "801159D0",
+    "kaleido_mgr_table": "8012D1C0",
+    "fbdemo_table": "80120118"
+  },
+  "files": [
+    {
+      "vrom": "00A94000",
+      "name": "code",
+      "type": "Code"
+    }
+  ]
+}

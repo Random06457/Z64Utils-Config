@@ -1,0 +1,24 @@
+{
+  "version_name": "Ocarina of Time NTSC 0.9",
+  "version_game": "Oot",
+  "compression_method": "Yaz0",
+  "identifier": {
+    "build_team": "zelda@srd44",
+    "build_date": "98-10-18 23:05:00"
+  },
+  "memory": {
+    "code": "800110A0",
+    "actor_table": "800E8320",
+    "gamestate_table": "800F1130",
+    "effect_table": "800E7A30",
+    "kaleido_mgr_table": "800FE270",
+    "map_mark_data_table": "800F19E8"
+  },
+  "files": [
+    {
+      "vrom": "00A87000",
+      "name": "code",
+      "type": "Code"
+    }
+  ]
+}

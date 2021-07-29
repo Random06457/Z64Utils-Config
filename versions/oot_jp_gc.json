@@ -1,0 +1,24 @@
+{
+  "version_name": "Ocarina of Time Japan GameCube",
+  "version_game": "Oot",
+  "compression_method": "Yaz0",
+  "identifier": {
+    "build_team": "zelda@srd022j",
+    "build_date": "02-10-29 23:49:53"
+  },
+  "memory": {
+    "code": "80010EE0",
+    "actor_table": "800E7A40",
+    "gamestate_table": "800F0850",
+    "effect_table": "800E7150",
+    "kaleido_mgr_table": "800FD9A0",
+    "map_mark_data_table": "800F1108"
+  },
+  "files": [
+    {
+      "vrom": "00A86000",
+      "name": "code",
+      "type": "Code"
+    }
+  ]
+}

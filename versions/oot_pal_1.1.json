@@ -1,0 +1,24 @@
+{
+  "version_name": "Ocarina of Time PAL 1.1",
+  "version_game": "Oot",
+  "compression_method": "Yaz0",
+  "identifier": {
+    "build_team": "zelda@srd44",
+    "build_date": "98-11-18 17:36:49"
+  },
+  "memory": {
+    "code": "800116E0",
+    "actor_table": "800E64C0",
+    "gamestate_table": "800EF2D0",
+    "effect_table": "800E5BD0",
+    "kaleido_mgr_table": "800FC420",
+    "map_mark_data_table": "800EFB88"
+  },
+  "files": [
+    {
+      "vrom": "00A89000",
+      "name": "code",
+      "type": "Unknow"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "version_name": "Ocarina of Time PAL Master Quest",
+  "version_game": "Oot",
+  "compression_method": "Yaz0",
+  "identifier": {
+    "build_team": "zelda@srd022j",
+    "build_date": "03-02-21 20:37:19"
+  },
+  "memory": {
+    "code": "80010F00",
+    "actor_table": "800E5380",
+    "gamestate_table": "800EE190",
+    "effect_table": "800E4A90",
+    "kaleido_mgr_table": "800FB2E0",
+    "fbdemo_table": "800EEA48"
+  },
+  "files": [
+    {
+      "vrom": "00A88000",
+      "name": "code",
+      "type": "Unknow"
+    }
+  ]
+}

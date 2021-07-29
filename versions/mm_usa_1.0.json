@@ -1,0 +1,24 @@
+{
+  "version_name": "Majora\u0027s Mask USA 1.0",
+  "version_game": "Mm",
+  "compression_method": "Yaz0",
+  "identifier": {
+    "build_team": "zelda@srd44",
+    "build_date": "00-07-31 17:04:16"
+  },
+  "memory": {
+    "code": "800A5AC0",
+    "actor_table": "801AEFD0",
+    "gamestate_table": "801BD910",
+    "effect_table": "801AE4A0",
+    "kaleido_mgr_table": "801D0B70",
+    "fbdemo_table": "801D0BB0"
+  },
+  "files": [
+    {
+      "vrom": "00B3C000",
+      "name": "code",
+      "type": "Unknow"
+    }
+  ]
+}

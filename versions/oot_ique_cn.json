@@ -1,0 +1,25 @@
+{
+  "version_name": "Ocarina of Time IQue Chinese",
+  "version_game": "Oot",
+  "compression_method": "Zlib",
+  "cic": 6102,
+  "identifier": {
+    "build_team": "build@toad.routefree.com",
+    "build_date": "03-10-22 16:23:19"
+  },
+  "memory": {
+    "code": "80018FA0",
+    "actor_table": "800F0120",
+    "gamestate_table": "800F8F30",
+    "effect_table": "800EF860",
+    "kaleido_mgr_table": "80106060",
+    "map_mark_data_table": "800F97E8"
+  },
+  "files": [
+    {
+      "vrom": "00AB0000",
+      "name": "code",
+      "type": "Code"
+    }
+  ]
+}
